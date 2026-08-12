@@ -149,6 +149,11 @@ export const CV_SECTIONS: CvSection[] = [
     heading: "Honors & Awards",
     items: [
       {
+        date: "2026",
+        title: "AI Seoul Tech Research Scholarship",
+        sub: "Seoul Scholarship Foundation, Seoul Metropolitan Government",
+      },
+      {
         date: "2025 – Present",
         title: "Outstanding Master's Scholarship in Science and Engineering",
         sub: "Korea Student Aid Foundation (KOSAF)",
