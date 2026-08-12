@@ -151,7 +151,7 @@ export const CV_SECTIONS: CvSection[] = [
       {
         date: "2026",
         title: "AI Seoul Tech Research Scholarship",
-        sub: "Seoul Scholarship Foundation, Seoul Metropolitan Government",
+        sub: "Seoul Future Talent Foundation, Seoul Metropolitan Government",
       },
       {
         date: "2025 – Present",
