@@ -132,16 +132,16 @@ export const CV_SECTIONS: CvSection[] = [
     heading: "Experience",
     items: [
       {
-        date: "2025",
-        title: "UC Irvine, Dutt Research Group",
-        sub: "Undergraduate Research Intern, GREAT Program",
-        note: "Nine-week research internship on hyperdimensional computing; co-authored HYPERDOA, accepted at ICASSP 2026.",
-      },
-      {
         date: "2025 – 2026",
         title: "Hanyang University",
         sub: "Teaching Assistant · Software Convergence Institute & Graduate School of Applied Artificial Intelligence",
         note: "Lab instruction, grading, and Q&A across seven course sections over two semesters — Creative Computing, Creative Programming, AI and Machine Learning, and AI Programming — including English-medium sections.",
+      },
+      {
+        date: "2025",
+        title: "UC Irvine, Dutt Research Group",
+        sub: "Undergraduate Research Intern, GREAT Program",
+        note: "Nine-week research internship on hyperdimensional computing; co-authored HYPERDOA, accepted at ICASSP 2026.",
       },
     ],
   },
