@@ -24,6 +24,13 @@ export interface Publication {
 export const PUBLICATIONS: Publication[] = [
   {
     year: "2026",
+    title: "Fault-Free Profiles and Decision-Level Training for Root Cause Analysis via Small Language Models",
+    authors: ["Kyoohyun Lee", "Woohyeok Park", "Taeyoon Kim", "Sungyong Baik", "Kyungyong Lee"],
+    venue: "arXiv preprint arXiv:2611.02416",
+    link: "https://arxiv.org/abs/2611.02416",
+  },
+  {
+    year: "2026",
     title: "Vivace: Exact Temporal OLAP over Interval Histories via Independent Serverless Execution",
     authors: ["Woohyeok Park", "Taeyoon Kim", "Hyunjoon Kim", "Kyungyong Lee"],
     venue: "arXiv preprint arXiv:2606.14069",
